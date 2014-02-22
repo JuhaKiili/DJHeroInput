@@ -1,0 +1,328 @@
+fileFormatVersion: 2
+guid: 78f16a3cc1a3dff48b60887612b72786
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: ControllerBG
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1020
+        width: 1560
+        height: 980
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Blue
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 910
+        width: 136
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BlueDown
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 910
+        width: 136
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: XBoxButton
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 909
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: XBoxButton1
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 909
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: XBoxButton2
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 909
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: XBoxButton3
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 909
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: XBoxButton4
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 909
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Red
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 821
+        width: 164
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: RedDown
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 820
+        width: 164
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: DPad
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 800
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: DPadUp
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 800
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: DPadRight
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 800
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: DPadDown
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 800
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: DPadLeft
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 800
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Green
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 730
+        width: 136
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: GreenDown
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 730
+        width: 136
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SmallButton
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 757
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SmallButtonDown
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 757
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Yeaboiee
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 610
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: YeaboieeDown
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 610
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Crossfader
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 626
+        width: 42
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ButtonY
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 542
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ButtonYDown
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 542
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Knob
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 544
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ButtonX
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 489
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ButtonB
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 488
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ButtonXDown
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 489
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ButtonBDown
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 488
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ButtonA
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 436
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ButtonADown
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 436
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 

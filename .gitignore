@@ -6,13 +6,4 @@
 *.csproj
 *.unityproj
 *.sln
-Assets/svg/controller_sheet.svg.meta
-Assets/Plugins/XInputInterface.dll.meta
-Assets/Plugins/XInputDotNetPure.dll.meta
-Assets/Lobby/DJHeroController.cs.meta
-Assets/Lobby.unity.meta
-Assets/DJHeroInput.cs.meta
-Assets/Plugins.meta
-Assets/Lobby.meta
-Assets/svg.meta
 ProjectSettings/
